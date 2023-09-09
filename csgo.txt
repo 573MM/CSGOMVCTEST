@@ -1,0 +1,4 @@
+declare abc    //comment
+declare def
+abc = 11
+def = abc + abc
